@@ -1,0 +1,15 @@
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\obj\Debug\net9.0\FirstArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\obj\Debug\net9.0\FirstArray.AssemblyInfoInputs.cache
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\obj\Debug\net9.0\FirstArray.AssemblyInfo.cs
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\obj\Debug\net9.0\FirstArray.csproj.CoreCompileInputs.cache
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\obj\Debug\net9.0\FirstArray.sourcelink.json
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\bin\Debug\net9.0\FirstArray.exe
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\bin\Debug\net9.0\FirstArray.deps.json
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\bin\Debug\net9.0\FirstArray.runtimeconfig.json
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\bin\Debug\net9.0\FirstArray.dll
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\bin\Debug\net9.0\FirstArray.pdb
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\obj\Debug\net9.0\FirstArray.dll
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\obj\Debug\net9.0\refint\FirstArray.dll
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\obj\Debug\net9.0\FirstArray.pdb
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\obj\Debug\net9.0\FirstArray.genruntimeconfig.cache
+C:\Users\camer\Projects\C#_projects\FirstArray\FirstArray\obj\Debug\net9.0\ref\FirstArray.dll
