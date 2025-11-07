@@ -1,18 +1,18 @@
-﻿string apartments = "A105, B308, C555, B432, B222, A006";
-string[] splitResult = apartments.Split(',');
-Array.Sort(splitResult);
+﻿string apartments = "A105,B308,C555,B432,B222,A006";
+string[] aptNums = apartments.Split(',', StringSplitOptions.RemoveEmptyEntries);
+Array.Sort(aptNums);
 
-Console.WriteLine("HalfBlood Aparment Complex");
+Console.WriteLine("HalfBlood Aparment Complex\n");
 
-foreach (var aptNums in apartments)
+foreach (var apt in aptNums)
 {
-    if (apartments == "C55") 
+    if (apt == "C555")
     {
-        Console.WriteLine(apartments + "\t\tMaintenance");
+        Console.WriteLine($"{apt}\t\tMaintenance");
     }
     else
     {
-        Console.WriteLine(apartments +"\t\tResident");
+        Console.WriteLine($"{apt}\t\tResident");
     }
 };
 
